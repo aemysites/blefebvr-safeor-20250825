@@ -1,0 +1,52 @@
+{
+  "originUrl": "https://www.safeor.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "source": "MANUAL",
+      "targetPath": "/products/neptune",
+      "id": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "source": "MANUAL",
+      "targetPath": "/products/neptune-s",
+      "id": "f3cc54590d2f77c096022d2789fbdb18eadaaf37"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "source": "MANUAL",
+      "targetPath": "/products/photonblade-3-se",
+      "id": "28faf9f45054fb63a886436fa68d3697ec2fa871"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "source": "MANUAL",
+      "targetPath": "/products/procedural-oxygen-mask",
+      "id": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "source": "MANUAL",
+      "targetPath": "/products/smokeevacuation",
+      "id": "79182142395d550fcf39b225bbade0139049f451"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "source": "MANUAL",
+      "targetPath": "/products/surgicount-triton",
+      "id": "bf08353671c61617ac2e27d79b12040acec0d9e0"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "limit": 100,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
