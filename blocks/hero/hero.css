@@ -60,125 +60,6 @@
   }
 }
 
-.hero.hero3 {
-  width: 100vw;
-  min-height: 220px;
-  position: relative;
-  padding: 0;
-  margin: 0;
-  overflow: hidden;
-  display: flex;
-  place-items: center start;
-  background: transparent;
-}
-
-.hero.hero3 > div {
-  display: contents;
-}
-
-.hero.hero3 > div:first-child {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1;
-}
-
-.hero.hero3 > div:first-child picture,
-.hero.hero3 > div:first-child img {
-  width: 100vw;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-.hero.hero3 > div:last-child {
-  position: relative;
-  z-index: 2;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
-  min-height: 220px;
-}
-
-.hero.hero3 > div:last-child > div {
-  background: #fff;
-  border-radius: 0;
-  box-shadow: none;
-  padding: 2rem 2.4rem 1.4rem;
-  margin-top: 4vw;
-  margin-left: 6vw;
-  max-width: 380px;
-  min-width: 260px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-}
-
-.hero.hero3 h1 {
-  font-size: 1.35rem;
-  font-weight: 700;
-  color: #131313;
-  margin: 0 0 0.5rem;
-  line-height: 1.15;
-  text-align: left;
-}
-
-.hero.hero3 h1 br + span,
-.hero.hero3 h1 br + strong {
-  color: #FFD200;
-  font-size: 2.8rem;
-  font-weight: 900;
-  display: block;
-  margin: 0 0 0.35rem;
-  line-height: 1;
-}
-
-.hero.hero3 h2 {
-  background: #FFD200;
-  color: #131313;
-  font-weight: 800;
-  font-size: 1.15rem;
-  display: inline-block;
-  padding: 0.2em 0.9em;
-  border-radius: 2px;
-  margin: 0.4rem 0 0;
-  letter-spacing: 0.01em;
-  line-height: 1.2;
-}
-
-.hero.hero3 > div:last-child > div h1:not(:first-of-type),
-.hero.hero3 > div:last-child > div h2:not(:first-of-type),
-.hero.hero3 > div:last-child > div > p,
-.hero.hero3 > div:last-child > div > a,
-.hero.hero3 > div:last-child > div > p > a {
-  display: none;
-}
-
-@media (width <= 900px) {
-  .hero.hero3 > div:last-child > div {
-    margin-top: 6vw;
-    margin-left: 4vw;
-    padding: 1.2rem 1rem 1rem;
-    max-width: 94vw;
-    font-size: 1rem;
-  }
-
-  .hero.hero3 h1 {
-    font-size: 1.1rem;
-  }
-
-  .hero.hero3 h2 {
-    font-size: 1rem;
-    padding: 0.15em 0.7em;
-  }
-
-  .hero.hero3 h1 br + span,
-  .hero.hero3 h1 br + strong {
-    font-size: 2rem;
-  }
-}
-
 .hero > div {
   display: block;
   flex-direction: row;
@@ -384,11 +265,6 @@
   }
 }
 
-/* Remove extra flex/grid from inner divs so content stacks vertically and fills width */
-
-/* Style the paragraph to visually mimic a two-line hero using line clamping */
-
-/* Make the first line regular serif, the second line bold sans-serif if possible */
 .hero p::first-line {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 22px;
@@ -396,8 +272,6 @@
   color: #000;
 }
 
-/* Fallback for bolding/sans-serif second line: 
-   If content ever uses <br> and <strong>/<b>/<span> for the second line, style it */
 .hero p br + strong,
 .hero p br + b,
 .hero p br + span {
@@ -410,7 +284,6 @@
   line-height: 1.2;
 }
 
-/* Remove any possible visual artifacts from previous styles */
 .hero *, .hero *::before, .hero *::after {
   box-shadow: none;
   background: none;
@@ -418,12 +291,153 @@
   border: none;
 }
 
-/* Responsive tweaks for small screens */
 @media (width <= 600px) {
   .hero {
     width: 100vw;
     max-width: 100vw;
     min-width: 0;
     padding: 1.2rem 0.6rem;
+  }
+}
+
+
+.hero.hero3 {
+  position: relative;
+  width: 100vw;
+  min-height: 425px;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  background: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+/* Make sure the background image is a full cover */
+.hero.hero3 > div:first-child {
+  position: absolute;
+  inset: 0;
+  width: 100vw;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+  display: block;
+}
+
+.hero.hero3 > div:first-child picture,
+.hero.hero3 > div:first-child img {
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Overlay box layout: stacked vertically, compact sizing */
+.hero.hero3 > div:nth-child(2) {
+  position: relative;
+  z-index: 2;
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 220px;
+  height: auto;
+}
+
+/* Focus the box on a single headline + highlight, not long paragraphs */
+.hero.hero3 > div:nth-child(2) > div {
+  background: #fff;
+  box-shadow: none;
+  border-radius: 0;
+  padding: 2.1rem 2.2rem 1.7rem;
+  margin-top: 48px;
+  margin-left: 48px;
+  max-width: 340px;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2em;
+}
+
+/* Hide all but the first headline block (h1/h2), and hide paragraphs/links */
+.hero.hero3 > div:nth-child(2) > div h1:not(:first-of-type),
+.hero.hero3 > div:nth-child(2) > div h2:not(:first-of-type),
+.hero.hero3 > div:nth-child(2) > div p,
+.hero.hero3 > div:nth-child(2) > div a,
+.hero.hero3 > div:nth-child(2) > div p a {
+  display: none;
+}
+
+/* Headline styles */
+.hero.hero3 h1 {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #131313;
+  margin: 0 0 0.10em;
+  line-height: 1.14;
+  text-align: left;
+}
+
+/* "zero" line: large, bold, yellow, directly under headline */
+.hero.hero3 h1 br + *,
+.hero.hero3 h1 br + span,
+.hero.hero3 h1 br + strong,
+.hero.hero3 h1 br + b {
+  color: #FFD600;
+  font-size: 2.7rem;
+  font-weight: 900;
+  display: block;
+  margin: 0.02em 0 0.10em;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+
+/* Hide any plain black "surgical smoke" after "zero" (if present) */
+.hero.hero3 h1 br + * + * {
+  display: none;
+}
+
+/* "surgical smoke" highlight: yellow pill, tight under "zero" */
+.hero.hero3 h2 {
+  background: #FFD600;
+  color: #222;
+  font-weight: 700;
+  font-size: 1.14rem;
+  border-radius: 6px;
+  margin: 0;
+  padding: 0.21em 0.95em;
+  display: inline-block;
+  line-height: 1.11;
+  box-shadow: 0 2px 8px rgb(255 214 0 / 9%);
+  letter-spacing: 0.01em;
+}
+
+/* Responsive adjustments */
+@media (width <= 900px) {
+  .hero.hero3 > div:nth-child(2) > div {
+    max-width: 98vw;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 1.1rem 0.7rem 0.7rem;
+    gap: 0.08em;
+  }
+
+  .hero.hero3 h1 {
+    font-size: 1.07rem;
+  }
+
+  .hero.hero3 h1 br + *,
+  .hero.hero3 h1 br + span,
+  .hero.hero3 h1 br + strong,
+  .hero.hero3 h1 br + b {
+    font-size: 1.35rem;
+  }
+
+  .hero.hero3 h2 {
+    font-size: 0.99rem;
+    padding: 0.16em 0.7em;
   }
 }
