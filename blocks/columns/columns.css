@@ -3,7 +3,7 @@
   display: flex;
   grid-template-columns: 1fr 1fr 60px;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
   gap: 32px;
   width: 100%;
   margin: 0 auto;
@@ -13,6 +13,9 @@
   background: #fff;
   position: relative;
   flex-direction: row;
+  min-height: 140px;
+  padding-left: 64px;
+  padding-right: 64px;
 }
 
 .columns img {
@@ -24,12 +27,17 @@
   flex: 1 1 0;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
   min-width: 0;
   text-align: left;
   width: 100%;
-  background: #F4B600;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  min-height: 72px;
 }
 
 .columns > div > .columns-img-col {
@@ -55,7 +63,7 @@
 
 
 .columns {
-  background: #F4B600;
+  background: #fff;
   width: 100%;
   position: relative;
   left: 50%;
@@ -74,7 +82,10 @@
 }
 
 .columns > div > div:first-child {
-  flex: 0 0 40%;
+  flex: 0 0 220px;
+  min-width: 180px;
+  max-width: 320px;
+  justify-content: flex-start;
 }
 
 @media (width <= 900px) {
@@ -224,9 +235,6 @@
   }
 }
 
-/* Ensure both columns are side by side and centered vertically */
-
-/* Remove inherited backgrounds, border-radius, shadows from all descendants */
 .columns > div > div,
 .columns > div > div *,
 .columns > div > div:last-child,
@@ -236,11 +244,6 @@
   box-shadow: none;
 }
 
-/* Apply yellow background to columns to prevent white bleed-through */
-
-/* Column widths and alignment */
-
-/* On mobile, stack vertically and keep background yellow */
 @media (width <= 900px) {
   .columns {
     background: #F4B600;
@@ -268,5 +271,94 @@
   .columns > div {
     padding: 16px 4px;
     gap: 16px;
+  }
+}
+
+/* Top-level row: Flex horizontal layout, center all columns, add larger horizontal padding */
+
+/* Each column: force horizontal layout and reserve space */
+
+/* Left column: reserve width and keep at left */
+
+/* Middle column: reserve width and center */
+.columns > div > div:nth-child(2) {
+  flex: 0 0 320px;
+  min-width: 180px;
+  max-width: 380px;
+  justify-content: center;
+}
+
+/* Right column: plus sign, reserve width, right align */
+.columns > div > div:last-child {
+  flex: 0 0 60px;
+  min-width: 60px;
+  max-width: 100px;
+  justify-content: flex-end;
+  position: relative;
+  height: 64px;
+}
+
+/* Plus sign styling */
+.columns > div > div:last-child::before,
+.columns > div > div:last-child::after {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  background: #222;
+  border-radius: 1px;
+  transform: translate(-50%, -50%);
+  display: block;
+  content: "";
+}
+
+.columns > div > div:last-child::before {
+  width: 2px;
+  height: 32px;
+}
+
+.columns > div > div:last-child::after {
+  width: 32px;
+  height: 2px;
+}
+
+/* Responsive: stack columns vertically on small screens */
+@media (width <= 900px) {
+  .columns > div {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .columns > div > div {
+    min-height: 48px;
+  }
+
+  .columns > div > div:first-child,
+  .columns > div > div:nth-child(2) {
+    min-width: 120px;
+    flex-basis: 160px;
+  }
+}
+
+@media (width <= 700px) {
+  .columns > div {
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding-left: 8px;
+    padding-right: 8px;
+    min-height: 0;
+  }
+
+  .columns > div > div {
+    max-width: 100%;
+    min-width: 0;
+    margin-bottom: 20px;
+    justify-content: center;
+  }
+
+  .columns > div > div:last-child {
+    margin-bottom: 0;
+    align-self: flex-end;
+    justify-content: flex-end;
   }
 }
