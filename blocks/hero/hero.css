@@ -174,7 +174,6 @@
   }
 }
 
-/* Use flexbox for reliable side-by-side layout regardless of content count */
 .hero > div {
   display: flex;
   flex-direction: row;
@@ -188,7 +187,6 @@
   box-sizing: border-box;
 }
 
-/* Each card/column styling */
 .hero > div > div {
   background: #fff;
   border-radius: 16px;
@@ -206,7 +204,6 @@
   height: auto;
 }
 
-/* Improve text sizing and readability inside hero cards */
 .hero p {
   color: #222;
   font-size: 1.08em;
@@ -253,4 +250,126 @@
   background: linear-gradient(to bottom, rgb(255 255 255 / 70%) 0%, rgb(255 255 255 / 8%) 55%, transparent 100%);
   pointer-events: none;
   z-index: 2;
+}
+
+
+.hero.hero8 {
+  /* Center the block and set max width for visual prominence */
+  background: #fff;
+  border-radius: 1.5rem;
+  box-shadow: 0 4px 24px rgb(0 0 0 / 6%);
+  padding: 3rem 1.5rem 2rem;
+  margin: 3rem auto;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero.hero8 > div {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* First child: text block */
+.hero.hero8 > div:first-child > div {
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: #222;
+  text-align: center;
+  line-height: 1.35;
+  margin-bottom: 1.5rem;
+  max-width: 470px;
+  margin-left: auto;
+  margin-right: auto;
+  letter-spacing: 0.01em;
+}
+
+/* Second child: call-to-action buttons block */
+.hero.hero8 > div:last-child > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  margin-top: 0;
+}
+
+/* Button-like elements styling */
+.hero.hero8 > div:last-child > div > * {
+  background: #276064;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.98rem;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.65rem 1.5rem;
+  min-width: 120px;
+  min-height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.18s;
+  box-shadow: 0 1px 4px rgb(21 202 182 / 10%);
+  outline: none;
+}
+
+/* Add a little extra width to the arrow separator if it's a div or span */
+.hero.hero8 > div:last-child > div > div,
+.hero.hero8 > div:last-child > div > span {
+  background: none;
+  min-width: 32px;
+  min-height: 32px;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Button hover/focus styling */
+.hero.hero8 > div:last-child > div > *:hover,
+.hero.hero8 > div:last-child > div > *:focus {
+  background: #1d4b4e;
+}
+
+/* Responsive adjustments */
+@media (width <= 600px) {
+  .hero.hero8 {
+    padding: 1.7rem 0.5rem 1.2rem;
+    max-width: 98vw;
+    border-radius: 0.8rem;
+  }
+
+  .hero.hero8 > div {
+    gap: 1.2rem;
+  }
+
+  .hero.hero8 > div:first-child > div {
+    font-size: 1rem;
+    margin-bottom: 0.9rem;
+    max-width: 98vw;
+  }
+
+  .hero.hero8 > div:last-child > div {
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+
+  .hero.hero8 > div:last-child > div > * {
+    padding: 0.6rem 1rem;
+    font-size: 0.95rem;
+    border-radius: 1.2rem;
+  }
+
+  .hero.hero8 > div:last-child > div > div,
+  .hero.hero8 > div:last-child > div > span {
+    min-width: 24px;
+    min-height: 24px;
+  }
 }
