@@ -1,0 +1,1072 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ],
+      "styles": {
+        "height": 73
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-18-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-21-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-13-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-20-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(84, 88, 87) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Accordion",
+      "cluster": 1,
+      "source": "Accordion",
+      "target": "Accordion (accordion1)",
+      "key": "accordion1",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-12-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-13-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-16-1083294d4437ec50fd4298a8bf2f3be5c1089727",
+          "xpath": "/html[1]/body[1]/div[13]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-14-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-14-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-10-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-13-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-13-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-16-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-9"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-10"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 4,
+      "source": "Hero",
+      "target": "Hero (hero4)",
+      "key": "hero4",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-08-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-08-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-16-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-19-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-15-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-15-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-18-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-04-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-03-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-03-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-04-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-09-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "source": "Hero",
+      "target": "Hero (hero8)",
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 9,
+      "source": "Header",
+      "target": "Header",
+      "key": "header9",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-09-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-07-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-10-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-07-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-04-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-07-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 12,
+      "source": "Accordion",
+      "target": "Accordion (accordion12)",
+      "key": "accordion12",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-10-db125010b8ae17a9585ac9ef5ba160cff1375abf",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped)",
+      "cluster": 13,
+      "source": "Table (striped)",
+      "target": "Table (striped)",
+      "key": "tableStriped13",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-14-1066ea1a693c2d6452d3ea239bd2c3fb0ca1871d",
+          "xpath": "/html[1]/body[1]/div[12]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-12-ce51cbdfc25f17caa0e5a4e95c13ee7c048e4772",
+          "xpath": "/html[1]/body[1]/div[14]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-03-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-02-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-03-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-11-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-10-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-12-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-09-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-06-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-08-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-09-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-13-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-17-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-09-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-12-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-15-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-11-34b2f516ef58352f913d534625239ff0176456b4",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-01-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-08-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-03-e01ab1dff3c792080397d9035ccf6aec27ab6af3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-10-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-11-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-08-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-05-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-08-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-05-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-06-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-11-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-15-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-17-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-18-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-04-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-12-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-15-9b0995064d8b593bf72299467737aac690872696",
+      "xpath": "/html[1]/body[1]/div[13]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-18-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-20-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-21-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-03-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-11-c187ca3b49e7bf8f6f2bd83c8c5f050c3c10e665",
+      "xpath": "/html[1]/body[1]/div[17]"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-12-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-13-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-04-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-11-a27d6a564ded217577666251c62dd15fe27c1901",
+      "xpath": "/html[1]/body[1]/section[2]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-14-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-16-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-04-489093775cbfbf249b62076c50c7f452e02b49e9",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-09-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-14-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-16-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-05-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-06-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-13-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-17-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-19-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-20-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/679a9deb7acb15d0d55053d2_Photonblade3SE--cover.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-2",
+      "background": "linear-gradient(rgb(255, 255, 255) 8%, rgba(255, 255, 255, 0) 74%) repeat scroll 0% 0% / auto padding-box border-box, rgb(255, 255, 255) linear-gradient(rgba(255, 255, 255, 0) 15%, rgb(255, 255, 255) 90%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 5
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(39, 122, 127) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 9
+    },
+    {
+      "name": "section-4",
+      "background": "rgb(254, 194, 16) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 6
+    },
+    {
+      "name": "section-5",
+      "background": "rgb(84, 88, 87) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 12
+    },
+    {
+      "name": "section-6",
+      "background": "rgba(0, 0, 0, 0) linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0) 58%, rgb(255, 255, 255) 90%) repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-7",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65de5394bd38589a38b3983c_POM_Yellow.jpg\") repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-8",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/6654a56595bc003b3ed15635_ZeroSplashSpill_BG.jpg\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-9",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65d679c85af2f7ac521bf5e4_Neptune-S-Video-min.png\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    },
+    {
+      "name": "section-10",
+      "background": "rgba(0, 0, 0, 0) url(\"https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65d679c85af2f7ac521bf5c5_SafeOR_Header-Neptune_1920x900-min.png\") no-repeat scroll 50% 50% / cover padding-box border-box",
+      "count": 1
+    }
+  ]
+}

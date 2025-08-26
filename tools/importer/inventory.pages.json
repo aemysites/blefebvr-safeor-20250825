@@ -1,0 +1,40 @@
+{
+  "templates": [
+    {
+      "name": "Multi-purpose Dashboard Template",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "uuid": "79182142395d550fcf39b225bbade0139049f451"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "uuid": "f3cc54590d2f77c096022d2789fbdb18eadaaf37"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "uuid": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "uuid": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a"
+        }
+      ]
+    },
+    {
+      "name": "'Multi-purpose Content Template'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "uuid": "bf08353671c61617ac2e27d79b12040acec0d9e0"
+        },
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "uuid": "28faf9f45054fb63a886436fa68d3697ec2fa871"
+        }
+      ]
+    }
+  ]
+}
