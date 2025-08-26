@@ -6,21 +6,23 @@
 
 .hero {
   position: relative;
-  padding: 2.5rem 1.5rem;
+  padding: 58px 56px;
   min-height: unset;
-  background: #ffc107;
-  width: 380px;
+  background: #fff;
+  width: 100%;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   overflow: hidden;
   margin: 0;
   box-sizing: border-box;
-  max-width: 100vw;
+  max-width: 560px;
   min-width: 240px;
-  border-radius: 0;
-  box-shadow: none;
+  border-radius: 30px;
+  box-shadow: 0 16px 80px 0 rgb(0 0 0 / 16%), 0 2px 8px 0 rgb(0 0 0 / 4%);
   flex-direction: column;
+  margin-top: 48px;
+  z-index: 1;
 }
 
 .hero h1,
@@ -61,11 +63,11 @@
 }
 
 .hero > div {
-  display: block;
-  flex-direction: row;
-  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
   justify-content: center;
-  gap: 56px;
+  gap: 16px;
   width: 100%;
   max-width: 100%;
   margin: 0;
@@ -85,30 +87,36 @@
   max-width: 100%;
   flex: 1 1 0px;
   box-sizing: border-box;
-  display: block;
+  display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: flex-start;
   margin: 0;
   height: auto;
   width: 100%;
+  text-align: left;
 }
 
 .hero p {
-  color: #000;
-  font-size: 22px;
-  line-height: 1.25;
-  max-width: 100%;
-  margin: 0;
+  color: var(--text-color);
+  font-size: 1.45rem;
+  line-height: 1.45;
+  max-width: 98%;
+  margin: 0 0 1.05em;
   overflow-wrap: break-word;
   padding: 0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-weight: 400;
+  font-family: var(--body-font-family);
+  font-weight: 500;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
   height: calc(1.25em * 2 + 0.25em);
+  text-align: left;
+  background: none;
+  padding-left: 0;
+  letter-spacing: 0.01em;
+  word-wrap: break-word;
 }
 
 @media (width <= 1100px) {
@@ -314,7 +322,6 @@
   justify-content: flex-start;
 }
 
-/* Make sure the background image is a full cover */
 .hero.hero3 > div:first-child {
   position: absolute;
   inset: 0;
@@ -333,7 +340,6 @@
   display: block;
 }
 
-/* Overlay box layout: stacked vertically, compact sizing */
 .hero.hero3 > div:nth-child(2) {
   position: relative;
   z-index: 2;
@@ -346,7 +352,6 @@
   height: auto;
 }
 
-/* Focus the box on a single headline + highlight, not long paragraphs */
 .hero.hero3 > div:nth-child(2) > div {
   background: #fff;
   box-shadow: none;
@@ -362,7 +367,6 @@
   gap: 0.2em;
 }
 
-/* Hide all but the first headline block (h1/h2), and hide paragraphs/links */
 .hero.hero3 > div:nth-child(2) > div h1:not(:first-of-type),
 .hero.hero3 > div:nth-child(2) > div h2:not(:first-of-type),
 .hero.hero3 > div:nth-child(2) > div p,
@@ -371,7 +375,6 @@
   display: none;
 }
 
-/* Headline styles */
 .hero.hero3 h1 {
   font-size: 1.3rem;
   font-weight: 700;
@@ -381,7 +384,6 @@
   text-align: left;
 }
 
-/* "zero" line: large, bold, yellow, directly under headline */
 .hero.hero3 h1 br + *,
 .hero.hero3 h1 br + span,
 .hero.hero3 h1 br + strong,
@@ -395,12 +397,10 @@
   letter-spacing: -1px;
 }
 
-/* Hide any plain black "surgical smoke" after "zero" (if present) */
 .hero.hero3 h1 br + * + * {
   display: none;
 }
 
-/* "surgical smoke" highlight: yellow pill, tight under "zero" */
 .hero.hero3 h2 {
   background: #FFD600;
   color: #222;
@@ -415,7 +415,6 @@
   letter-spacing: 0.01em;
 }
 
-/* Responsive adjustments */
 @media (width <= 900px) {
   .hero.hero3 > div:nth-child(2) > div {
     max-width: 98vw;
@@ -439,5 +438,67 @@
   .hero.hero3 h2 {
     font-size: 0.99rem;
     padding: 0.16em 0.7em;
+  }
+}
+
+
+.hero-wrapper {
+  background:
+    linear-gradient(to bottom, rgb(0 0 0 / 82%) 0%, rgb(255 255 255 / 98%) 76%, #fff 100%),
+    url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80') center top / cover no-repeat;
+  min-height: 540px;
+  width: 100vw;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0;
+  position: relative;
+}
+
+@media (width <= 1024px) {
+  .hero-wrapper {
+    min-height: 400px;
+  }
+
+  .hero {
+    max-width: 98vw;
+    padding: 32px 6vw;
+    border-radius: 18px;
+    margin-top: 20px;
+  }
+
+  .hero > div,
+  .hero > div > div {
+    max-width: 98vw;
+    padding: 0;
+  }
+
+  .hero p {
+    font-size: 1.08rem;
+    max-width: 98vw;
+  }
+}
+
+@media (width <= 600px) {
+  .hero-wrapper {
+    min-height: 160px;
+  }
+
+.hero {
+    padding: 10px 3vw;
+    border-radius: 8px;
+    margin-top: 8px;
+    max-width: 99vw;
+    overflow-wrap: break-word; /* Fix for deprecated keyword */
+  }
+
+  .hero > div,
+  .hero > div > div {
+    padding: 0;
+  }
+
+  .hero p {
+    font-size: 0.97rem;
+    max-width: 97vw;
   }
 }
