@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .hero-container .hero-wrapper {
   max-width: unset;
   padding: 0;
@@ -5,8 +6,16 @@
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  padding: 0;
+  min-height: 420px;
+  background: #000;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .hero h1,
@@ -47,7 +56,6 @@
 }
 
 .hero.hero3 {
-  /* Full-width background image setup */
   width: 100vw;
   min-height: 220px;
   position: relative;
@@ -63,7 +71,6 @@
   display: contents;
 }
 
-/* Picture as background image, not side by side */
 .hero.hero3 > div:first-child {
   position: absolute;
   inset: 0;
@@ -80,7 +87,6 @@
   display: block;
 }
 
-/* Card container with hero message */
 .hero.hero3 > div:last-child {
   position: relative;
   z-index: 2;
@@ -90,9 +96,7 @@
   min-height: 220px;
 }
 
-/* White card with main hero message */
 .hero.hero3 > div:last-child > div {
-  /* The white block/card */
   background: #fff;
   border-radius: 0;
   box-shadow: none;
@@ -115,7 +119,6 @@
   text-align: left;
 }
 
-/* Style the second line "zero" as bold, large, yellow if possible */
 .hero.hero3 h1 br + span,
 .hero.hero3 h1 br + strong {
   color: #FFD200;
@@ -126,7 +129,6 @@
   line-height: 1;
 }
 
-/* Surgical smoke yellow block */
 .hero.hero3 h2 {
   background: #FFD200;
   color: #131313;
@@ -140,7 +142,6 @@
   line-height: 1.2;
 }
 
-/* Remove extra hero duplicate headings and links/paragraphs */
 .hero.hero3 > div:last-child > div h1:not(:first-of-type),
 .hero.hero3 > div:last-child > div h2:not(:first-of-type),
 .hero.hero3 > div:last-child > div > p,
@@ -149,7 +150,6 @@
   display: none;
 }
 
-/* Responsive: Stack card lower on small screens */
 @media (width <= 900px) {
   .hero.hero3 > div:last-child > div {
     margin-top: 6vw;
@@ -172,4 +172,85 @@
   .hero.hero3 h1 br + strong {
     font-size: 2rem;
   }
+}
+
+/* Use flexbox for reliable side-by-side layout regardless of content count */
+.hero > div {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: center;
+  gap: 56px;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 64px 0;
+  box-sizing: border-box;
+}
+
+/* Each card/column styling */
+.hero > div > div {
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 8px 32px rgb(0 0 0 / 13%);
+  padding: 56px 48px;
+  min-width: 350px;
+  max-width: 520px;
+  flex: 1 1 0px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin: 0;
+  height: auto;
+}
+
+/* Improve text sizing and readability inside hero cards */
+.hero p {
+  color: #222;
+  font-size: 1.08em;
+  line-height: 1.6;
+  max-width: 400px;
+  margin: 0.8em 0 0.25em;
+  overflow-wrap: break-word;
+}
+
+@media (width <= 1100px) {
+  .hero > div {
+    max-width: 98vw;
+    gap: 32px;
+    padding: 32px 0;
+  }
+
+  .hero > div > div {
+    min-width: 220px;
+    max-width: 98vw;
+    padding: 28px 12px;
+  }
+}
+
+@media (width <= 900px) {
+  .hero > div {
+    flex-direction: column;
+    align-items: center;
+    gap: 28px;
+    padding: 24px 0;
+    max-width: 98vw;
+  }
+
+  .hero > div > div {
+    max-width: 98vw;
+    min-width: 0;
+    width: 95vw;
+  }
+}
+
+.hero::after {
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 160px;
+  background: linear-gradient(to bottom, rgb(255 255 255 / 70%) 0%, rgb(255 255 255 / 8%) 55%, transparent 100%);
+  pointer-events: none;
+  z-index: 2;
 }
