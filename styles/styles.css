@@ -1,3 +1,4 @@
+
 /*
  * Copyright 2020 Adobe. All rights reserved.
  * This file is licensed to you under the Apache License, Version 2.0 (the "License");
@@ -9,65 +10,151 @@
  * OF ANY KIND, either express or implied. See the License for the specific language
  * governing permissions and limitations under the License.
  */
-
 :root {
-  /* colors */
   --background-color: white;
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
-
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
-
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
-
-  /* nav height */
-  --nav-height: 64px;
+  --body-font-family: "Urw type foundry egyptienneurw lig", "Urw type foundry egyptienneurw lig Fallback", "Georgia", "sans-serif";
+  --heading-font-family: "Urw type foundry egyptienneurw lig", "Urw type foundry egyptienneurw lig Fallback", "Georgia", "sans-serif";
+  --body-font-size-m: 24px;
+  --body-font-size-s: 17px;
+  --body-font-size-xs: 12px;
+  --heading-font-size-xxl: 38px;
+  --heading-font-size-xl: 28px;
+  --heading-font-size-l: 32px;
+  --heading-font-size-m: 24px;
+  --heading-font-size-s: 17px;
+  --heading-font-size-xs: 12px;
+  --nav-height: 73px;
   --header-height: var(--nav-height);
 }
 
 /* fallback fonts */
 @font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
+  font-family:"SlabSerif Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:88.93%;
+  descent-override:22.45%;
+  line-gap-override:0.00%;
+  size-adjust:105.03%;
 }
 
 @font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
+  font-family:"Bitstream humstslab712 bt roman Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:88.93%;
+  descent-override:22.45%;
+  line-gap-override:0.00%;
+  size-adjust:105.03%;
 }
 
-@media (width >= 900px) {
-  :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
+@font-face {
+  font-family:"Urw type foundry egyptienneurw lig Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:64.89%;
+  descent-override:32.25%;
+  line-gap-override:19.43%;
+  size-adjust:102.95%;
+}
 
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
+@font-face {
+  font-family:"Urw type foundry egyptienneurw lig Fallback";
+  font-style:normal;
+  font-weight:300;
+  src:local("Arial");
+  ascent-override:64.89%;
+  descent-override:32.25%;
+  line-gap-override:19.43%;
+  size-adjust:102.95%;
+}
+
+@font-face {
+  font-family:"Egyptienne Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:64.89%;
+  descent-override:32.25%;
+  line-gap-override:19.43%;
+  size-adjust:102.95%;
+}
+
+@font-face {
+  font-family:"Futura Fallback";
+  font-style:normal;
+  font-weight:300;
+  src:local("Arial");
+  ascent-override:87.57%;
+  descent-override:18.58%;
+  line-gap-override:21.23%;
+  size-adjust:94.21%;
+}
+
+@font-face {
+  font-family:"FuturaStdBold Fallback";
+  font-style:normal;
+  font-weight:700;
+  src:local("Arial Bold");
+  ascent-override:73.38%;
+  descent-override:15.57%;
+  line-gap-override:17.79%;
+  size-adjust:112.43%;
+}
+
+@font-face {
+  font-family:"Futura Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:106.51%;
+  descent-override:25.34%;
+  line-gap-override:0.00%;
+  size-adjust:102.99%;
+}
+
+@font-face {
+  font-family:"FuturaStdMedium Fallback";
+  font-style:normal;
+  font-weight:500;
+  src:local("Arial");
+  ascent-override:86.08%;
+  descent-override:18.26%;
+  line-gap-override:20.87%;
+  size-adjust:95.84%;
+}
+
+@font-face {
+  font-family:"Futura Fallback";
+  font-style:normal;
+  font-weight:700;
+  src:local("Arial Bold");
+  ascent-override:73.38%;
+  descent-override:15.57%;
+  line-gap-override:17.79%;
+  size-adjust:112.43%;
+}
+
+@media (width>=900px) {
+  :root {
+    --body-font-size-m: 24px;
+    --body-font-size-s: 17px;
+    --body-font-size-xs: 12px;
+    --heading-font-size-xxl: 38px;
+    --heading-font-size-xl: 28px;
+    --heading-font-size-l: 32px;
+    --heading-font-size-m: 24px;
+    --heading-font-size-s: 17px;
+    --heading-font-size-xs: 12px;
+    --nav-height: 73px;
   }
 }
 
@@ -89,22 +176,15 @@ header {
   height: var(--nav-height);
 }
 
-header .header,
-footer .footer {
+header .header, footer .footer {
   visibility: hidden;
 }
 
-header .header[data-block-status="loaded"],
-footer .footer[data-block-status="loaded"] {
+header .header[data-block-status="loaded"], footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
@@ -113,25 +193,36 @@ h6 {
   scroll-margin: 40px;
 }
 
-h1 { font-size: var(--heading-font-size-xxl); }
-h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
-h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
-h6 { font-size: var(--heading-font-size-xs); }
+h1 {
+  font-size: var(--heading-font-size-xxl);
+}
 
-p,
-dl,
-ol,
-ul,
-pre,
-blockquote {
+h2 {
+  font-size: var(--heading-font-size-xl);
+}
+
+h3 {
+  font-size: var(--heading-font-size-l);
+}
+
+h4 {
+  font-size: var(--heading-font-size-m);
+}
+
+h5 {
+  font-size: var(--heading-font-size-s);
+}
+
+h6 {
+  font-size: var(--heading-font-size-xs);
+}
+
+p, dl, ol, ul, pre, blockquote {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
 }
 
-code,
-pre {
+code, pre {
   font-size: var(--body-font-size-s);
 }
 
@@ -143,14 +234,11 @@ pre {
   white-space: pre;
 }
 
-main > div {
+main>div {
   margin: 40px 16px;
 }
 
-input,
-textarea,
-select,
-button {
+input, textarea, select, button {
   font: inherit;
 }
 
@@ -167,8 +255,7 @@ a:hover {
 }
 
 /* buttons */
-a.button:any-link,
-button {
+a.button:any-link, button {
   box-sizing: border-box;
   display: inline-block;
   max-width: 100%;
@@ -190,22 +277,17 @@ button {
   white-space: nowrap;
 }
 
-a.button:hover,
-a.button:focus,
-button:hover,
-button:focus {
+a.button:hover, a.button:focus, button:hover, button:focus {
   background-color: var(--link-hover-color);
   cursor: pointer;
 }
 
-button:disabled,
-button:disabled:hover {
+button:disabled, button:disabled:hover {
   background-color: var(--light-color);
   cursor: unset;
 }
 
-a.button.secondary,
-button.secondary {
+a.button.secondary, button.secondary {
   background-color: unset;
   border: 2px solid currentcolor;
   color: var(--text-color);
@@ -229,29 +311,28 @@ main img {
 }
 
 /* sections */
-main > .section {
+main>.section {
   margin: 40px 0;
 }
 
-main > .section > div {
+main>.section>div {
   max-width: 1200px;
   margin: auto;
   padding: 0 24px;
 }
 
-main > .section:first-of-type {
+main>.section:first-of-type {
   margin-top: 0;
 }
 
-@media (width >= 900px) {
-  main > .section > div {
+@media (width>=900px) {
+  main>.section>div {
     padding: 0 32px;
   }
 }
 
 /* section metadata */
-main .section.light,
-main .section.highlight {
+main .section.light, main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
@@ -259,4 +340,44 @@ main .section.highlight {
 
 .section.hidden {
   display: none;
+}
+
+.section.section-1 {
+  background: rgb(0 0 0 / 0%) url("https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/679a9deb7acb15d0d55053d2_Photonblade3SE--cover.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-2 {
+  background: linear-gradient(rgb(255 255 255) 8%, rgb(255 255 255 / 0%) 74%) repeat scroll 0% 0% / auto padding-box border-box, rgb(255 255 255) linear-gradient(rgb(255 255 255 / 0%) 15%, rgb(255 255 255) 90%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-3 {
+  background: rgb(39 122 127) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-4 {
+  background: rgb(254 194 16) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-5 {
+  background: rgb(84 88 87) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-6 {
+  background: rgb(0 0 0 / 0%) linear-gradient(rgb(255 255 255 / 0%), rgb(255 255 255 / 0%) 58%, rgb(255 255 255) 90%) repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-7 {
+  background: rgb(0 0 0 / 0%) url("https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65de5394bd38589a38b3983c_POM_Yellow.jpg") repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-8 {
+  background: rgb(0 0 0 / 0%) url("https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/6654a56595bc003b3ed15635_ZeroSplashSpill_BG.jpg") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-9 {
+  background: rgb(0 0 0 / 0%) url("https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65d679c85af2f7ac521bf5e4_Neptune-S-Video-min.png") no-repeat scroll 50% 50% / cover padding-box border-box;
+}
+
+.section.section-10 {
+  background: rgb(0 0 0 / 0%) url("https://cdn.prod.website-files.com/65d679c85af2f7ac521bf298/65d679c85af2f7ac521bf5c5_SafeOR_Header-Neptune_1920x900-min.png") no-repeat scroll 50% 50% / cover padding-box border-box;
 }
