@@ -1,6 +1,15 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  width: 100%;
+  margin: 0;
+  padding-left: 64px;
+  padding-right: 64px;
+  box-sizing: border-box;
 }
 
 .columns img {
@@ -9,6 +18,14 @@
 
 .columns > div > div {
   order: 1;
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 0;
+  text-align: left;
+  width: 100%;
 }
 
 .columns > div > .columns-img-col {
@@ -29,5 +46,65 @@
   .columns > div > div {
     flex: 1;
     order: unset;
+  }
+}
+
+
+.columns {
+  background: #f5b800;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  min-height: 600px;
+  padding: 64px 0;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* The main row of columns: fill width, no centering, side padding only */
+
+/* Each column: fill available space, left/top aligned */
+
+/* Column proportions */
+.columns > div > div:first-child {
+  flex-basis: 40%;
+  max-width: 40%;
+}
+
+.columns > div > div:last-child {
+  flex-basis: 60%;
+  max-width: 60%;
+}
+
+/* All inner content of columns: force left/top */
+.columns > div > div > * {
+  align-self: flex-start;
+  text-align: left;
+}
+
+/* Responsive adjustments */
+@media (width <= 900px) {
+  .columns {
+    padding: 32px 0;
+    min-height: 0;
+  }
+
+  .columns > div {
+    flex-direction: column;
+    gap: 32px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .columns > div > div,
+  .columns > div > div:first-child,
+  .columns > div > div:last-child {
+    flex-basis: 100%;
+    max-width: 100%;
   }
 }
