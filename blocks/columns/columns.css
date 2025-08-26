@@ -1,17 +1,18 @@
 /* stylelint-disable no-descending-specificity */
 .columns > div {
-  display: grid;
+  display: flex;
   grid-template-columns: 1fr 1fr 60px;
-  align-items: flex-start;
-  justify-content: flex-start;
+  align-items: center;
+  justify-content: center;
   gap: 32px;
   width: 100%;
   margin: 0 auto;
-  padding: 40px 64px 40px 40px;
+  padding: 60px 40px;
   box-sizing: border-box;
   max-width: 1200px;
   background: #fff;
   position: relative;
+  flex-direction: row;
 }
 
 .columns img {
@@ -28,6 +29,7 @@
   min-width: 0;
   text-align: left;
   width: 100%;
+  background: #F4B600;
 }
 
 .columns > div > .columns-img-col {
@@ -53,7 +55,7 @@
 
 
 .columns {
-  background: #fff;
+  background: #F4B600;
   width: 100%;
   position: relative;
   left: 50%;
@@ -72,58 +74,22 @@
 }
 
 .columns > div > div:first-child {
-  flex-basis: 40%;
-  max-width: 40%;
+  flex: 0 0 40%;
 }
 
+@media (width <= 900px) {
 .columns > div > div:last-child {
   flex-basis: 60%;
   max-width: 60%;
+  min-width: 320px;
+  padding-left: 32px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
 }
 
-.columns > div > div > * {
-  align-self: flex-start;
-  text-align: left;
-}
-
-@media (width <= 900px) {
-  .columns {
-    padding: 32px 0;
-    min-height: 0;
-  }
-
-  .columns > div {
-    flex-direction: column;
-    gap: 32px;
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-
-  .columns > div > div,
-  .columns > div > div:first-child,
-  .columns > div > div:last-child {
-    flex-basis: 100%;
-    max-width: 100%;
-  }
-}
-
-@media (width <= 900px) {
-  .columns > div {
-    grid-template-columns: 1fr;
-    gap: 24px;
-    padding: 24px 0 24px 16px;
-  }
-}
-
-.columns > div > div:nth-child(2) {
-  place-self: start start;
-  width: 100%;
-}
-
-.columns > div > div:nth-child(2) p {
-  margin: 0;
-  font-size: 18px;
-  font-weight: 700;
   color: #000;
   text-align: left;
   font-family: Inter, Arial, sans-serif;
@@ -186,7 +152,7 @@
   box-shadow: 0 4px 24px rgb(0 0 0 / 8%);
   padding: 40px 32px;
   margin: 0 auto;
-  max-width: 960px; /* Slightly reduced so block appears more centered and matches original */
+  max-width: 960px;
   min-height: 480px;
   width: 100%;
   display: flex;
@@ -205,7 +171,6 @@
 }
 
 .columns.columns22 > div > div {
-  /* Force two equal columns even if empty */
   flex: 1 1 0;
   flex-basis: 0%;
   min-width: 0;
@@ -230,7 +195,6 @@
   padding: 0;
 }
 
-/* Remove unwanted placeholder text and elements if present */
 .columns.columns22 p,
 .columns.columns22 .unwanted-element,
 .columns.columns22 .plus-sign,
@@ -238,7 +202,6 @@
   display: none;
 }
 
-/* Responsive stacking for smaller screens */
 @media (width <= 900px) {
   .columns.columns22 {
     flex-direction: column;
@@ -258,5 +221,52 @@
     width: 100%;
     flex-basis: auto;
     min-height: 0;
+  }
+}
+
+/* Ensure both columns are side by side and centered vertically */
+
+/* Remove inherited backgrounds, border-radius, shadows from all descendants */
+.columns > div > div,
+.columns > div > div *,
+.columns > div > div:last-child,
+.columns > div > div:last-child * {
+  background: transparent;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+/* Apply yellow background to columns to prevent white bleed-through */
+
+/* Column widths and alignment */
+
+/* On mobile, stack vertically and keep background yellow */
+@media (width <= 900px) {
+  .columns {
+    background: #F4B600;
+  }
+
+  .columns > div {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 24px;
+    padding: 32px 16px;
+  }
+
+  .columns > div > div,
+  .columns > div > div:first-child,
+  .columns > div > div:last-child {
+    flex-basis: 100%;
+    max-width: 100%;
+    min-width: 0;
+    padding: 0;
+    background: #F4B600;
+  }
+}
+
+@media (width <= 600px) {
+  .columns > div {
+    padding: 16px 4px;
+    gap: 16px;
   }
 }
