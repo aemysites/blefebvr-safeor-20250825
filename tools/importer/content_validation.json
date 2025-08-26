@@ -1,0 +1,3678 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "We"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "library"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "COMMUNITY"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "make"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "trending"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "topics"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "site"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "share"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "work. With"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " your "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "story featured question Contact Waste Management Neptune 3 Low Fluid Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consent, we"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "may"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "also"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S Smoke"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "non-essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "improve"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Pharmaceutical"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "user"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "and"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Cactus"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "analyze"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Operating"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Room"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traffic. By"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cAccept,\u201d you"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "agree"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Safeair"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website's"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Photonblade"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "as"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "SE"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "described"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Labor & Delivery"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Policy. You"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "can"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "change"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "settings"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "any"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Events"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "time"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mobile"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "by"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cPreferences.\u201d PreferencesDeclineAccept"
+                }
+              ],
+              "dissimilarity_score": 0.97
+            }
+          ],
+          "similarity_score": 0.030000000000000027
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "We"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "library"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "COMMUNITY"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "make"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "trending"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "topics"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "site"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "share"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "work. With"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " your "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "story featured question Contact Waste Management Neptune 3 Low Fluid Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consent, we"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "may"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "also"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S Smoke"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "non-essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "improve"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Pharmaceutical"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "user"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "and"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Cactus"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "analyze"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Operating"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Room"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traffic. By"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cAccept,\u201d you"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "agree"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Safeair"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website's"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Photonblade"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "as"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "SE"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "described"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Labor & Delivery"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Policy. You"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "can"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "change"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "settings"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "any"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Events"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "time"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mobile"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "by"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cPreferences.\u201d PreferencesDeclineAccept"
+                }
+              ],
+              "dissimilarity_score": 0.97
+            }
+          ],
+          "similarity_score": 0.030000000000000027
+        }
+      ],
+      "styles": {
+        "height": 73
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-18-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]",
+          "differences": [
+            {
+              "element_id": "html__body__div_19",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "\u2020 PhotonBlade 3 does not offer smoke evacuation capabilities. Canicoba ARB. Surgical smoke and occupational health. Ann Transl Med. 2022 Dec;10(24):1303. doi: 10.21037/atm-22-5631. PMID: 36660725; PMCID: PMC9843373. In a blinded study of 17 surgeons, PhotonBlade 3 SE smoke evacuation integration and performance rated an average of 4.8 out of 5. Data on file. Evidence: Engineering Test Report: 2401515-01 Rev A. When compared to PlasmaBlade x3 Light, testing date October 2-4, 2024. In a blinded survey of 17 surgeons, PhotonBlade 3 SE thermal spread and surrounding tissue damage was rated an average of 4.5 out of 5. Data on file. An average of 97% smoke removal was noted in engineering testing when connected to Stryker Compact Smoke Evacuation Unit and the Stryker Neptune Waste Management System. Data on File. Data on file. Engineering Test Report: Test Report S12086.240769 (with Neptune) , Test Report S12086.240696 (with Compact), Polaris test report S2579.232113, and HFE report (D0000300823). ST-PB3-MICRO-1718284_REV-0"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-21-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-13-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-20-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+          "xpath": "/html[1]/body[1]/div[19]",
+          "differences": [
+            {
+              "element_id": "html__body__div_19",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Instructions for use: https://labeling.stryker.com/hcp/US 1 \u201cUpdated U.S. Public Health Service Guidelines for the Management of Occupational Exposures to HBV, HCV, and HIV and Recommendations for Postexposure Prophylaxis.\u201d 29 June 2001, www.cdc.gov/mmwr/preview/mmwrhtml/rr5011a1.htm.\u201d 2 Horn, Martlie et al. \u201cTraditional canister-based open waste management system versus closed system: hazardous exposure prevention and operating theatre staff satisfaction.\u201d Journal of Perioperative Nursing in Australia. 28:1 (Autumn 2015):18-22. 3 Sources of Error when Tracking Irrigation Fluids During Hysteroscopic Procedures. Boyd, Harry R. et al. Journal of Minimally Invasive Gynecology, Volume 7, Issue 4, 472 \u2013 476 (Table 4) 4 Stryker data on file; S1756.071362, S1756.071444, S1756.071469, S1756.071450, S1988.150724, 5 IEST-RP-CC001 requires testing at 0.3-\u03bcm mass median diameter particle size., 6 Stryker data on file; LIT D0000027971."
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ],
+      "styles": {
+        "background": "rgb(84, 88, 87) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Accordion",
+      "cluster": 1,
+      "source": "Accordion",
+      "target": "Accordion (accordion1)",
+      "key": "accordion1",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-12-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-13-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-16-1083294d4437ec50fd4298a8bf2f3be5c1089727",
+          "xpath": "/html[1]/body[1]/div[13]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-14-c6dd3350cf53711a93ed5e05f228858d793b0907",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-14-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-10-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-13-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-13-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-16-cf05370ae423389318127aad240120a9089144b8",
+          "xpath": "/html[1]/body[1]/div[16]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 3,
+      "source": "Hero",
+      "target": "Hero (hero3)",
+      "key": "hero3",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div_3",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Our goal is... zero surgical smoke It can be hard"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Mask\u2122 Safety. Simplicity. Innovation. All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "see"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "past"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " the "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "same"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "smoke, with"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "breath. "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "500,000 healthcare workers exposed to harmful "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "surgical "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "smoke "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "evacuation to our comprehensive portfolio. \u200d Learn More See IT in action Learn More "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Our goal is... zero surgical smoke"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": " surgical smoke It can be hard to see past the smoke, with 500,000 healthcare workers exposed to harmful surgical plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated smoke evacuation to our comprehensive portfolio. \u200d Learn More See it in Action"
+                }
+              ],
+              "dissimilarity_score": 0.71
+            }
+          ],
+          "similarity_score": 0.29000000000000004
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-7"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-8"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-9"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-01-ab3e4de776b49f538ccb9d433b686862faf5a7cc",
+          "xpath": "/html[1]/body[1]/div[3]",
+          "section": "section-10",
+          "differences": [
+            {
+              "element_id": "html__body__div_3",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Our goal is... zero splash & spills* Exposure to harmful contaminants and pathogens has long been an accepted"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "risk"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Mask\u2122 Safety"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "of the calling of dedicated healthcare professionals"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ". "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Simplicity"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "When an O.R"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ". "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Innovation. All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "nurse invented the first generation of Neptune 3 two decades ago, she set"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " in "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "motion a new standard of care for safe suction and "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "the "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "same"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "containment"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "breath"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "of surgical fluid"
+                },
+                {
+                  "change_type": "equal",
+                  "text": ". "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "splash & spills* "
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Learn More See IT in action Learn More "
+                },
+                {
+                  "change_type": "equal",
+                  "text": "Our goal is... zero splash & spills"
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "*"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "* splash & spills* Exposure to harmful contaminants and pathogens has long been an accepted risk of the calling of dedicated healthcare professionals. When an O.R. nurse invented the first generation of Neptune 3 two decades ago, she set in motion a new standard of care for safe suction and the containment of surgical fluid. Learn More See it in Action"
+                }
+              ],
+              "dissimilarity_score": 0.8
+            }
+          ],
+          "similarity_score": 0.19999999999999996
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 4,
+      "source": "Hero",
+      "target": "Hero (hero4)",
+      "key": "hero4",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-08-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-08-add54bcb8f055de42915ab5371264bb19835b0f0",
+          "xpath": "/html[1]/body[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-16-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-19-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-15-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-15-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-18-8a1f39bb71df6977ee045e4fb53b8bd1a34a4916",
+          "xpath": "/html[1]/body[1]/div[17]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 6,
+      "source": "Cards",
+      "target": "Cards (cards6)",
+      "key": "cards6",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-04-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-03-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-03-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-04-0e780fb3414a99d2a0eb5907f8b8a1e5051f2d55",
+          "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-10-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-09-97168ead73cbd6ec74f209281329e217e6cb3395",
+          "xpath": "/html[1]/body[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 8,
+      "source": "Hero",
+      "target": "Hero (hero8)",
+      "key": "hero8",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__div_4",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "It can be hard to see past the smoke, with 500,000 healthcare workers exposed to harmful surgical plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated smoke evacuation to our comprehensive portfolio. \u200d Learn More See it in action Request more information Learn More"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-02-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+          "xpath": "/html[1]/body[1]/div[4]",
+          "section": "section-2",
+          "differences": [
+            {
+              "element_id": "html__body__div_4",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Exposure to harmful contaminants and pathogens has long been an accepted risk of the calling of dedicated healthcare professionals. When an O.R. nurse invented the first generation of Neptune 3 two decades ago, she set in motion a new standard of care for safe suction and the containment of surgical fluid. Learn More See it in action Request more information Learn More"
+                }
+              ],
+              "dissimilarity_score": 1.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 9,
+      "source": "Header",
+      "target": "Header",
+      "key": "header9",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "We"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "library"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "COMMUNITY"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "make"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "trending"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "topics"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "site"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "share"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "work. With"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " your "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "story featured question Contact Waste Management Neptune 3 Low Fluid Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consent, we"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "may"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "also"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S Smoke"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "non-essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "improve"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Pharmaceutical"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "user"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "and"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Cactus"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "analyze"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Operating"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Room"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traffic. By"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cAccept,\u201d you"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "agree"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Safeair"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website's"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Photonblade"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "as"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "SE"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "described"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Labor & Delivery"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Policy. You"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "can"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "change"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "settings"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "any"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Events"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "time"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mobile"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "by"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cPreferences.\u201d PreferencesDeclineAccept"
+                }
+              ],
+              "dissimilarity_score": 0.97
+            }
+          ],
+          "similarity_score": 0.030000000000000027
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-00-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]",
+          "differences": [
+            {
+              "element_id": "html__body__div",
+              "differences": [
+                {
+                  "change_type": "deletion",
+                  "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "We"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "library"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "COMMUNITY"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "make"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "trending"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "topics"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "site"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "share"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "work. With"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " your "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "story featured question Contact Waste Management Neptune 3 Low Fluid Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "consent, we"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "may"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "also"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S Smoke"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "non-essential"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookies"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "improve"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Pharmaceutical"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "user"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Waste"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Management"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "and"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Cactus"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "analyze"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Operating"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Room"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "traffic. By"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cAccept,\u201d you"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "agree"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Safeair"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "to"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "website's"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Photonblade"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "use"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "3"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "as"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "SE"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "described"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Labor & Delivery"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "in"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Surgicount+ integrated"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "our"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "with"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "triton"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "Policy. You"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Gastroenterology"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "can"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Neptune"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "change"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "S"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "your"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Procedural"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "cookie"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "oxygen"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "settings"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mask"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "at"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "All"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "any"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "Events"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "time"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "mobile"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "by"
+                },
+                {
+                  "change_type": "equal",
+                  "text": " "
+                },
+                {
+                  "change_type": "deletion",
+                  "text": "experience"
+                },
+                {
+                  "change_type": "insertion",
+                  "text": "clicking \u201cPreferences.\u201d PreferencesDeclineAccept"
+                }
+              ],
+              "dissimilarity_score": 0.97
+            }
+          ],
+          "similarity_score": 0.030000000000000027
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 10,
+      "source": "Hero",
+      "target": "Hero (hero10)",
+      "key": "hero10",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-09-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-07-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-10-2a701b303e9fa5db6d3a770d5099a07e4d1dc441",
+          "xpath": "/html[1]/body[1]/div[9]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-07-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-04-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-06-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-07-7378aaf665825a1862e9b21c84fbd577dfa720dd",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 12,
+      "source": "Accordion",
+      "target": "Accordion (accordion12)",
+      "key": "accordion12",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-10-db125010b8ae17a9585ac9ef5ba160cff1375abf",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Table (striped)",
+      "cluster": 13,
+      "source": "Table (striped)",
+      "target": "Table (striped)",
+      "key": "tableStriped13",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-14-1066ea1a693c2d6452d3ea239bd2c3fb0ca1871d",
+          "xpath": "/html[1]/body[1]/div[12]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-12-ce51cbdfc25f17caa0e5a4e95c13ee7c048e4772",
+          "xpath": "/html[1]/body[1]/div[14]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-03-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-02-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-03-5537ba57cb891627bff453e6036480785129dce3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-11-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-10-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-12-1a5ac213891e52a48a5c126be5bd3ac2764a4d17",
+          "xpath": "/html[1]/body[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-09-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-06-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-08-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-09-8ff6e4bc7f0e3402648207dece9c8eb6516688e6",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/ul[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-13-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-17-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-09-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-12-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-15-3dcd1a9c0971a918745b31dd1def68e1b309c53a",
+          "xpath": "/html[1]/body[1]/div[15]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-11-34b2f516ef58352f913d534625239ff0176456b4",
+          "xpath": "/html[1]/body[1]/div[11]/div[2]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "source": "Hero",
+      "target": "Hero (hero20)",
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-01-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]",
+          "section": "section-6"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-08-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-03-e01ab1dff3c792080397d9035ccf6aec27ab6af3",
+          "xpath": "/html[1]/body[1]/div[5]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 23,
+      "source": "Columns",
+      "target": "Columns (columns23)",
+      "key": "columns23",
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-10-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-11-9d3f1d5a1142692322938b6b00811fbe3063cfe1",
+          "xpath": "/html[1]/body[1]/div[9]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.safeor.com/products/photonblade-3-se",
+          "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+          "uuid": "28faf9f4-08-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/smokeevacuation",
+          "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+          "uuid": "79182142-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+          "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+          "uuid": "99e0424f-05-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/surgicount-triton",
+          "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+          "uuid": "bf083536-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune-s",
+          "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+          "uuid": "f3cc5459-07-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.safeor.com/products/neptune",
+          "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+          "uuid": "ffeb62b8-08-dab5f8520a90c2e93eee0515f98eb697beb3c61a",
+          "xpath": "/html[1]/body[1]/div[7]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-05-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-06-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-11-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-15-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-17-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "urlHash": "28faf9f45054fb63a886436fa68d3697ec2fa871",
+      "uuid": "28faf9f4-18-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5",
+      "differences": [
+        {
+          "element_id": "html__body__div_19",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "\u2020 PhotonBlade 3 does not offer smoke evacuation capabilities. Canicoba ARB. Surgical smoke and occupational health. Ann Transl Med. 2022 Dec;10(24):1303. doi: 10.21037/atm-22-5631. PMID: 36660725; PMCID: PMC9843373. In a blinded study of 17 surgeons, PhotonBlade 3 SE smoke evacuation integration and performance rated an average of 4.8 out of 5. Data on file. Evidence: Engineering Test Report: 2401515-01 Rev A. When compared to PlasmaBlade x3 Light, testing date October 2-4, 2024. In a blinded survey of 17 surgeons, PhotonBlade 3 SE thermal spread and surrounding tissue damage was rated an average of 4.5 out of 5. Data on file. An average of 97% smoke removal was noted in engineering testing when connected to Stryker Compact Smoke Evacuation Unit and the Stryker Neptune Waste Management System. Data on File. Data on file. Engineering Test Report: Test Report S12086.240769 (with Neptune) , Test Report S12086.240696 (with Compact), Polaris test report S2579.232113, and HFE report (D0000300823). ST-PB3-MICRO-1718284_REV-0"
+            }
+          ],
+          "dissimilarity_score": 1.0
+        }
+      ],
+      "similarity_score": 0.0
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-04-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-12-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-15-9b0995064d8b593bf72299467737aac690872696",
+      "xpath": "/html[1]/body[1]/div[13]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-18-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-20-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/smokeevacuation",
+      "urlHash": "79182142395d550fcf39b225bbade0139049f451",
+      "uuid": "79182142-21-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-03-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-11-c187ca3b49e7bf8f6f2bd83c8c5f050c3c10e665",
+      "xpath": "/html[1]/body[1]/div[17]"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-12-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/procedural-oxygen-mask",
+      "urlHash": "99e0424f88c5d0515bd0c5a53e72e72479cc5d50",
+      "uuid": "99e0424f-13-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-04-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-11-a27d6a564ded217577666251c62dd15fe27c1901",
+      "xpath": "/html[1]/body[1]/section[2]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-14-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-16-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/surgicount-triton",
+      "urlHash": "bf08353671c61617ac2e27d79b12040acec0d9e0",
+      "uuid": "bf083536-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-04-489093775cbfbf249b62076c50c7f452e02b49e9",
+      "xpath": "/html[1]/body[1]/div[5]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-05-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-09-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-14-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-16-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune-s",
+      "urlHash": "f3cc54590d2f77c096022d2789fbdb18eadaaf37",
+      "uuid": "f3cc5459-17-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-05-ad4811b44d2ea7791cca2d68d17674f253801882",
+      "xpath": "/html[1]/body[1]/div[5]/div[2]/div[1]/a[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-06-c498d593a5bc97467d867eb87705c763456c87bd",
+      "xpath": "/html[1]/body[1]/section[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-13-cecc5b037812463710869417813eef34355230be",
+      "xpath": "/html[1]/body[1]/div[11]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-17-bffc14c0eaa282b20357efc160019b16340dcc34",
+      "xpath": "/html[1]/body[1]/div[17]/div[1]"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-19-7cf3b0ed4303f83139785e92b57caec14c5d0a8f",
+      "xpath": "/html[1]/body[1]/div[18]",
+      "section": "section-5"
+    },
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "urlHash": "ffeb62b88d5353fcaf6e7a2412a8b70a59a9965a",
+      "uuid": "ffeb62b8-20-71139ade6b1eb8d48c075688efcc0d63d7e5effe",
+      "xpath": "/html[1]/body[1]/div[19]",
+      "section": "section-5",
+      "differences": [
+        {
+          "element_id": "html__body__div_19",
+          "differences": [
+            {
+              "change_type": "deletion",
+              "text": "Instructions for use: https://labeling.stryker.com/hcp/US 1 \u201cUpdated U.S. Public Health Service Guidelines for the Management of Occupational Exposures to HBV, HCV, and HIV and Recommendations for Postexposure Prophylaxis.\u201d 29 June 2001, www.cdc.gov/mmwr/preview/mmwrhtml/rr5011a1.htm.\u201d 2 Horn, Martlie et al. \u201cTraditional canister-based open waste management system versus closed system: hazardous exposure prevention and operating theatre staff satisfaction.\u201d Journal of Perioperative Nursing in Australia. 28:1 (Autumn 2015):18-22. 3 Sources of Error when Tracking Irrigation Fluids During Hysteroscopic Procedures. Boyd, Harry R. et al. Journal of Minimally Invasive Gynecology, Volume 7, Issue 4, 472 \u2013 476 (Table 4) 4 Stryker data on file; S1756.071362, S1756.071444, S1756.071469, S1756.071450, S1988.150724, 5 IEST-RP-CC001 requires testing at 0.3-\u03bcm mass median diameter particle size., 6 Stryker data on file; LIT D0000027971."
+            }
+          ],
+          "dissimilarity_score": 1.0
+        }
+      ],
+      "similarity_score": 0.0
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.safeor.com/products/neptune",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking \u201cAccept,\u201d you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking \u201cPreferences.\u201d PreferencesDeclineAccept Search this site\u2026Search "
+        },
+        {
+          "change_type": "equal",
+          "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated with triton Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource library COMMUNITY trending "
+        },
+        {
+          "change_type": "deletion",
+          "text": "topics share"
+        },
+        {
+          "change_type": "insertion",
+          "text": "topicsshare"
+        },
+        {
+          "change_type": "equal",
+          "text": " your story featured question Contact"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Search this site\u2026Search"
+        },
+        {
+          "change_type": "equal",
+          "text": " Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated with triton Gastroenterology Neptune S Procedural oxygen mask All Events mobile experience Our goal is... zero splash & spills* Exposure to harmful contaminants and pathogens has long been an accepted risk of the calling of dedicated healthcare professionals. When an O.R. nurse invented the first generation of Neptune 3 two decades ago, she set in motion a new standard of care for safe suction and the containment of surgical fluid. Learn More See IT in action Learn More Our goal is... zero splash & spills* splash & spills* Exposure to harmful contaminants and pathogens has long been an accepted risk of the calling of dedicated healthcare professionals. When an O.R. nurse invented the first generation of Neptune 3 two decades ago, she set in motion a new standard of care for safe suction and the containment of surgical fluid. Learn More See it in Action "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Procedural Oxygen Mask\u2122 Safety. Simplicity. Innovation. All in the same breath. splash & spills* Our goal is... zero splash & spills* "
+        },
+        {
+          "change_type": "equal",
+          "text": "Exposure to harmful contaminants and pathogens has long been an accepted risk of the calling of dedicated healthcare professionals. When an O.R. nurse invented the first generation of Neptune 3 two decades ago, she set in motion a new standard of care for safe suction and the containment of surgical fluid. Learn More See it in action Request more information Learn More Neptune 3 is the only constantly closed waste management system on the market , where constant containment of surgical fluid, smoke, and airborne pathogens is possible. Filtration comes standard with Neptune 3\u2019s fully integrated HEPA and ULPA filters. Alongside Neptune 3\u2019s beloved simple workflow and consistent suction, Neptune 3 constantly works to protect you from suctioned pathogens. The risk of HIV transmission via fluid exposure is approximately 1 out of 1,000 incident. 1 Neptune 3 offers up to 3.5x more efficient in room set-up, handling and maintenance when compared to an open system. 2 Estimating fluid volume of traditional suction canisters yields error margins as high as 25%. 3 0 splashing, spilling or exposure observed when the constantly closed system was in use. 4 The risk of HIV transmission via fluid exposure is approximately 1 out of 1,000 incident. 1 Neptune 3 offers up to 3.5x more efficient in room set-up, handling and maintenance when compared to an open system. 2 Estimating fluid volume of traditional suction canisters yields error margins as high as 25%. 3 **2mm or larger Request More Information The risk of HIV transmission via fluid exposure is approximately 1 out of 1,000 incident. 1 Neptune 3 offers up to 3.5x more efficient in room set-up, handling and maintenance when compared to an open system. 2 Estimating fluid volume of traditional suction canisters yields error margins as high as 25%. 3 0 splashing, spilling or exposure observed when the constantly closed system was in use. 4 Request More Information Request More Information Introducing... Neptune 3 Our goal is zero splash & spills Neptune 3 Floor Fluid Disposables QuickWick Mat"
+        },
+        {
+          "change_type": "deletion",
+          "text": " Super absorbent material locks in 13.5 times its weight in fluid Suction Mat Permeable, non-slip top layer prevents fluid from pooling on the surface Suction Ring Pliable material allows for easy maneuverability and repositioning of device Contact Your Local Rep SafeAir Compact Digital fluid and suction setting displays enable quick decisions. The \u201creset volumes\u201d button resets fluid volumes to zero to separate the amounts of fluid in the canister. Neptune 3's 4L lighted canister provides digital readouts in 10mL increments, and is validated to a meticulous fluid accuracy of \u00b1 50mL Neptune 3\u2019s two independently controlled and regulated canisters establishes separate lines of suction, volume measurements, and customized suction settings. Integrated Smoke Evacuator Standard equipment; 80-hour ULPA filter, 10 speed settings, auto mode detects surgical smoke and adjusts flow Powered I.V. pole with auto retraction comes standard; holds four 3000cc bags on \u201cram\u2019s horn\u201d hooks. Hush vacuum pump produces a noise level of just 4.3 sones Digital fluid and suction setting displays enable quick decisions. The \u201creset volumes\u201d button resets fluid volumes to zero to separate the amounts of fluid in the canister. 1/6 Neptune 3's 4L lighted canister provides digital readouts in 10mL increments, and is validated to a meticulous fluid accuracy of \u00b1 50mL 2/6 Neptune 3\u2019s two independently controlled and regulated canisters establishes separate lines of suction, volume measurements, and customized suction settings. 3/6 Integrated Smoke Evacuator Standard equipment; 80-hour ULPA filter, 10 speed settings, auto mode detects surgical smoke and adjusts flow 4/6 Powered I.V. pole with auto retraction comes standard; holds four 3000cc bags on \u201cram\u2019s horn\u201d hooks. 5/6 Hush vacuum pump produces a noise level of just 4.3 sones 6/6 contact your local rep watch surgicount+ in\u2011service video Safe by design Safe by design Safe by design Safe by design Efficiency Neptune 3 offers hands-free disposable, no day-before canister prep and storage. Patient-to-patient use with the quick change of a manifold. Enables faster room turnover. 24L of fluid capacity. take the assessment Two-in-one solution Widely installed across O.R.\u2019s, Neptune 3 offers a comprehensive, readily-available fluid suction and smoke evacuation system. Neptune 3's filters meet or exceed IEST and EN standards. Typical HEPA filtration efficiency of 99.97% at 0.3 microns. Typical ULPA filtration of 99.9997% efficiency at 0.1 microns and additional testing verifies that efficiency increases to 100% at 0.01 microns. 5, 6 Learn more Safety Patented SealShut\u00ae technology locks away suctioned biohazards. Designed by Stryker\u2019s world-class engineers. Crucial Neptune 3 components are patented and meticulously regulated to ensure safe, consistent, reliable suction. Each canister is controlled by a separate regulator valve designed to maintain the canister\u2019s suction level at the user selected limit setting. Multiple suction range indicators show whether you are in low, medium or high suction learn more Contact your local rep Count and scan with confidence Backend Database with aggregated case data Save time searching for missing sponges Simplify workflow and streamline processes Count us in on supporting a safer OR. Count us in on certainty when you need it most. Count us in on helping to make the journey to zero retained surgical sponges the reality for you, your staff and your patients. \u201cIf it comes between doing what\u2019s right and what\u2019s easy, all of us should do what\u2019s right.\u201d \u2013 Tom Siemers, CEO Dosher Memorial Hospital, on going smoke-free with Stryker Neptune 3 and SafeAir Neptune 3 Floor Fluid Disposables QuickWick Mat Super absorbent material locks in 13.5 times its weight in fluid Suction Mat Permeable, non-slip top layer prevents fluid from pooling on the surface Suction Ring Pliable material allows for easy maneuverability and repositioning of device Contact Your Local Rep Device 7 Height Width Length Weight Weight Top to bottom just in front of \"cut\" button Side to side Tip of the needle to end of pencil Without tubing or wire Without tubing or wire Neptune SafeAir 0.488 in 0.488 in 7.50 in 14 gm 0.49 oz SafeAir Accessories View all accessories Review clinical research Automated Quantification of Blood Loss versus Visual Estimation in 274 Vaginal Deliveries Effect of Quantification of Blood Loss on Activation of a Postpartum Hemorrhage Protocol and Use of Resources Clinical Evaluation of a Novel System for Monitoring Surgical Hemoglobin Loss How can we help you? Together, our goal is zero. Partner with us today to start your journey. How can we help you? Together, our goal is zero. Partner with us today to start your journey. I acknowledge I have read and understood the Stryker Privacy Policy Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Learn more Supporting your journey towards standardized Safe OR solutions. . Resource Library Where is my facility on its culture of safety journey to zero harm? Take the assessment Keeping your operating room running smoothly and safely is our primary goal. The Neptune family offers standardization. read more An in-depth of Neptunes features and benefits. Read up on smoke evacuation, docking, and more! read more Association of Women\u2019s Health, Obstetric and Neonatal Nurses conference (AWHONN 2025) learn more See related solutions Cactus Learn more SafeAir Learn more Cookie Policy Site Privacy Policy Corporate Privacy Policy Terms of use Accessibility statement Surgeon Disclaimer \u00a9 Stryker 1998-2025 Trademarks Unique device identification (UDI) Product experience Ethics hotline Zero splash and spills, zero airborne contaminants, zero smoke, zero retained surgical sponges, zero blind spots, zero trips & falls, zero drug diversion, zero maternal harm, and zero doubt messages are not guarantees and are aspirational in nature. Instructions for use: https://labeling.stryker.com/hcp/US 1 \u201cUpdated U.S. Public Health Service Guidelines for the Management of Occupational Exposures to HBV, HCV, and HIV and Recommendations for Postexposure Prophylaxis.\u201d 29 June 2001, www.cdc.gov/mmwr/preview/mmwrhtml/rr5011a1.htm.\u201d 2 Horn, Martlie et al. \u201cTraditional canister-based open waste management system versus closed system: hazardous exposure prevention and operating theatre staff satisfaction.\u201d Journal of Perioperative Nursing in Australia. 28:1 (Autumn 2015):18-22. 3 Sources of Error when Tracking Irrigation Fluids During Hysteroscopic Procedures. Boyd, Harry R. et al. Journal of Minimally Invasive Gynecology, Volume 7, Issue 4, 472 \u2013 476 (Table 4) 4 Stryker data on file; S1756.071362, S1756.071444, S1756.071469, S1756.071450, S1988.150724, 5 IEST-RP-CC001 requires testing at 0.3-\u03bcm mass median diameter particle size., 6 Stryker data on file; LIT D0000027971."
+        }
+      ],
+      "similarity_score": 0.8508399629772411
+    },
+    {
+      "url": "https://www.safeor.com/products/photonblade-3-se",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "We use essential cookies to make our site work. With your consent, we may also use non-essential cookies to improve user experience and analyze website traffic. By clicking \u201cAccept,\u201d you agree to our website's cookie use as described in our Cookie Policy. You can change your cookie settings at any time by clicking \u201cPreferences.\u201d PreferencesDeclineAccept Search this site\u2026Search "
+        },
+        {
+          "change_type": "equal",
+          "text": "Home PRODUCTS products Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus clinical solutions CLINICAL SOLUTIONS Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated with triton Gastroenterology Neptune S Procedural oxygen mask events All events Mobile experience Events All Events mobile experience Community Hub safety huddle Safety huddle resource library COMMUNITY trending "
+        },
+        {
+          "change_type": "deletion",
+          "text": "topics share"
+        },
+        {
+          "change_type": "insertion",
+          "text": "topicsshare"
+        },
+        {
+          "change_type": "equal",
+          "text": " your story featured question Contact"
+        },
+        {
+          "change_type": "insertion",
+          "text": " Search this site\u2026Search"
+        },
+        {
+          "change_type": "equal",
+          "text": " Waste Management Neptune 3 Low Fluid Waste Management Neptune S Smoke Evacuation Neptune 3 Safeair Photonblade 3 SE Sponge Management Surgicount+ integrated with triton Quantitative Blood Loss Surgicount+ integrated with triton Airway Management Procedural oxygen mask Pharmaceutical Waste Management Cactus Operating Room Neptune 3 Safeair Surgicount+ integrated with triton Photonblade 3 SE Labor & Delivery Surgicount+ integrated with triton Gastroenterology Neptune S Procedural oxygen mask All Events mobile experience Our goal is... zero surgical smoke It can be hard to see past the smoke, with 500,000 healthcare workers exposed to harmful surgical plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated smoke evacuation to our comprehensive portfolio. \u200d Learn More See IT in action Learn More Our goal is... zero surgical smoke surgical smoke It can be hard to see past the smoke, with 500,000 healthcare workers exposed to harmful surgical plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated smoke evacuation to our comprehensive portfolio. \u200d Learn More See it in Action "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Procedural Oxygen Mask\u2122 Safety. Simplicity. Innovation. All in the same breath. surgical smoke Our goal is... zero surgical smoke "
+        },
+        {
+          "change_type": "equal",
+          "text": "It can be hard to see past the smoke, with 500,000 healthcare workers exposed to harmful surgical plume every year.\u00b9 That\u2019s why we\u2019re adding an advanced monopolar energy device with integrated smoke evacuation to our comprehensive portfolio. \u200d Learn More See it in action Request more information Learn More Everything has been leading to this point. The precise cutting you trust from PhotonBlade. Smoke evacuation and illumination, working as one. It all comes together in the next generation design. PhotonBlade 3 Smoke Evacuation advanced monopolar energy is everything you need in one innovative tool. \u200d Surgeons rated PhotonBlade 3 SE smoke evacuation 4.8 out of 5 in a blinded study"
+        },
+        {
+          "change_type": "deletion",
+          "text": " . "
+        },
+        {
+          "change_type": "insertion",
+          "text": ". "
+        },
+        {
+          "change_type": "equal",
+          "text": "2 PhotonBlade 3 SE average illuminance (lux) in the extended position is 2.5x greater than Plasmablade X. 3 Thermal spread and surrounding tissue damage were rated 4.5 out of 5 in a blinded study. 4 Up to 97% of smoke 5 can be removed right at the electrode tip to help keep the OR smoke-free. \u200d Surgeons rated PhotonBlade 3 SE smoke evacuation 4.8 out of 5 in a blinded study"
+        },
+        {
+          "change_type": "deletion",
+          "text": " . "
+        },
+        {
+          "change_type": "insertion",
+          "text": ". "
+        },
+        {
+          "change_type": "equal",
+          "text": "2 PhotonBlade 3 SE average illuminance (lux) in the extended position is 2.5x greater than Plasmablade X. 3 Thermal spread and surrounding tissue damage were rated 4.5 out of 5 in a blinded study. 4 **2mm or larger Request More Information Surgeons rated PhotonBlade 3 SE smoke evacuation 4.8 out of 5 in a blinded study"
+        },
+        {
+          "change_type": "deletion",
+          "text": " . "
+        },
+        {
+          "change_type": "insertion",
+          "text": ". "
+        },
+        {
+          "change_type": "equal",
+          "text": "2 PhotonBlade 3 SE average illuminance (lux) in the extended position is 2.5x greater than Plasmablade X. 3 Thermal spread and surrounding tissue damage were rated 4.5 out of 5 in a blinded study. 4 Up to 97% of smoke 5 can be removed right at the electrode tip to help keep the OR smoke-free. \u200d Request More Information Request More Information Introducing... PhotonBlade 3 SE Now joining the Journey to Zero* surgical smoke PhotonBlade Pencils PhotonBlade 3 SE"
+        },
+        {
+          "change_type": "deletion",
+          "text": " PhotonBlade 3 \u2020 SafeAir Compact Pre-stretched tubing Light and pre-stretched tubing for ease of motion and tangle-free cord management. Electrode Delivers precise energy now with an anti-char coating. Ergonomic Shape, size, grip, and styling are all improved for a better overall feel. Illumination and integrated smoke evacuation Self-contained illumination eliminates the need for an additional light source while the device is in use. The electrode tip captures smoke directly where it's generated, helping to keep the operating room clear. Telescopic shaft Fully rotatable extendable shaft reaches the small surgical pocket (2-5 in/5-12 cm). Light switch Provides the user with the option to illuminate the surgical site. Pre-stretched tubing Light and pre-stretched tubing for ease of motion and tangle-free cord management. 1/6 Electrode Delivers precise energy now with an anti-char coating. 2/6 Ergonomic Shape, size, grip, and styling are all improved for a better overall feel. 3/6 Illumination and integrated smoke evacuation Self-contained illumination eliminates the need for an additional light source while the device is in use. The electrode tip captures smoke directly where it's generated, helping to keep the operating room clear. 4/6 Telescopic shaft Fully rotatable extendable shaft reaches the small surgical pocket (2-5 in/5-12 cm). 5/6 Light switch Provides the user with the option to illuminate the surgical site. 6/6 contact your local rep See it in action PhotonBlade 3 SE is compatible with our Neptune waste management system, SafeAir compact smoke evacuator, and all IEC 60601-compliant electrosurgical generators with a standard 3 prong plug. 6 It also offers a variety of settings and modes across a range of full-featured Electrosurgical Units (ESUs). watch surgicount+ in\u2011service video take the assessment Learn more learn more Contact your local rep Count and scan with confidence Backend Database with aggregated case data Save time searching for missing sponges Simplify workflow and streamline processes Count us in on supporting a safer OR. Count us in on certainty when you need it most. Count us in on helping to make the journey to zero retained surgical sponges the reality for you, your staff and your patients. PhotonBlade Pencils PhotonBlade 3 SE PhotonBlade 3 \u2020 Device 7 Height Width Length Weight Weight Top to bottom just in front of \"cut\" button Side to side Tip of the needle to end of pencil Without tubing or wire Without tubing or wire Neptune SafeAir 0.488 in 0.488 in 7.50 in 14 gm 0.49 oz SafeAir Accessories View all accessories Review clinical research Automated Quantification of Blood Loss versus Visual Estimation in 274 Vaginal Deliveries Effect of Quantification of Blood Loss on Activation of a Postpartum Hemorrhage Protocol and Use of Resources Clinical Evaluation of a Novel System for Monitoring Surgical Hemoglobin Loss Ready to take the first step? The journey to a smoke-free facility can seem daunting. Contact us to learn more about our PhotonBlade 3 SE and begin your journey to a smoke-free OR today. Ready to take the first step? The journey to a smoke-free facility can seem daunting. Contact us to learn more about our PhotonBlade 3 SE and begin your journey to a smoke-free OR today. I acknowledge I have read and understood the Stryker Privacy Policy Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Learn more Supporting your journey towards standardized Safe OR solutions. Photonblade 3 SE Brochure View file Photonblade 3 SE Features & Benefits View file Education and awareness is a vital step in striving towards our mission of zero harm. Resource Library Where is my facility on its culture of safety journey to zero harm? Take the assessment No related event found. See related solutions SafeAir Learn more Neptune 3 Learn more Cookie Policy Site Privacy Policy Corporate Privacy Policy Terms of use Accessibility statement Surgeon Disclaimer \u00a9 Stryker 1998-2025 Trademarks Unique device identification (UDI) Product experience Ethics hotline Zero splash and spills, zero airborne contaminants, zero smoke, zero retained surgical sponges, zero blind spots, zero trips & falls, zero drug diversion, zero maternal harm, and zero doubt messages are not guarantees and are aspirational in nature. \u2020 PhotonBlade 3 does not offer smoke evacuation capabilities. Canicoba ARB. Surgical smoke and occupational health. Ann Transl Med. 2022 Dec;10(24):1303. doi: 10.21037/atm-22-5631. PMID: 36660725; PMCID: PMC9843373. In a blinded study of 17 surgeons, PhotonBlade 3 SE smoke evacuation integration and performance rated an average of 4.8 out of 5. Data on file. Evidence: Engineering Test Report: 2401515-01 Rev A. When compared to PlasmaBlade x3 Light, testing date October 2-4, 2024. In a blinded survey of 17 surgeons, PhotonBlade 3 SE thermal spread and surrounding tissue damage was rated an average of 4.5 out of 5. Data on file. An average of 97% smoke removal was noted in engineering testing when connected to Stryker Compact Smoke Evacuation Unit and the Stryker Neptune Waste Management System. Data on File. Data on file. Engineering Test Report: Test Report S12086.240769 (with Neptune) , Test Report S12086.240696 (with Compact), Polaris test report S2579.232113, and HFE report (D0000300823). ST-PB3-MICRO-1718284_REV-0"
+        }
+      ],
+      "similarity_score": 0.8439148862145373
+    }
+  ]
+}
