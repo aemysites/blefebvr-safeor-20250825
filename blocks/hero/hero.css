@@ -6,16 +6,21 @@
 
 .hero {
   position: relative;
-  padding: 0;
-  min-height: 420px;
-  background: #000;
-  width: 100vw;
+  padding: 2.5rem 1.5rem;
+  min-height: unset;
+  background: #ffc107;
+  width: 380px;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: flex-start;
+  justify-content: flex-start;
   overflow: hidden;
   margin: 0;
   box-sizing: border-box;
+  max-width: 100vw;
+  min-width: 240px;
+  border-radius: 0;
+  box-shadow: none;
+  flex-direction: column;
 }
 
 .hero h1,
@@ -175,42 +180,54 @@
 }
 
 .hero > div {
-  display: flex;
+  display: block;
   flex-direction: row;
   align-items: stretch;
   justify-content: center;
   gap: 56px;
   width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 64px 0;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
 }
 
 .hero > div > div {
-  background: #fff;
-  border-radius: 16px;
-  box-shadow: 0 8px 32px rgb(0 0 0 / 13%);
-  padding: 56px 48px;
-  min-width: 350px;
-  max-width: 520px;
+  background: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  min-width: unset;
+  max-width: 100%;
   flex: 1 1 0px;
   box-sizing: border-box;
-  display: flex;
+  display: block;
   flex-direction: column;
   align-items: flex-start;
   justify-content: center;
   margin: 0;
   height: auto;
+  width: 100%;
 }
 
 .hero p {
-  color: #222;
-  font-size: 1.08em;
-  line-height: 1.6;
-  max-width: 400px;
-  margin: 0.8em 0 0.25em;
+  color: #000;
+  font-size: 22px;
+  line-height: 1.25;
+  max-width: 100%;
+  margin: 0;
   overflow-wrap: break-word;
+  padding: 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  height: calc(1.25em * 2 + 0.25em);
 }
 
 @media (width <= 1100px) {
@@ -254,7 +271,6 @@
 
 
 .hero.hero8 {
-  /* Center the block and set max width for visual prominence */
   background: #fff;
   border-radius: 1.5rem;
   box-shadow: 0 4px 24px rgb(0 0 0 / 6%);
@@ -274,7 +290,6 @@
   gap: 2rem;
 }
 
-/* First child: text block */
 .hero.hero8 > div:first-child > div {
   font-size: 1.12rem;
   font-weight: 700;
@@ -288,7 +303,6 @@
   letter-spacing: 0.01em;
 }
 
-/* Second child: call-to-action buttons block */
 .hero.hero8 > div:last-child > div {
   display: flex;
   flex-direction: row;
@@ -298,7 +312,6 @@
   margin-top: 0;
 }
 
-/* Button-like elements styling */
 .hero.hero8 > div:last-child > div > * {
   background: #276064;
   color: #fff;
@@ -319,7 +332,6 @@
   outline: none;
 }
 
-/* Add a little extra width to the arrow separator if it's a div or span */
 .hero.hero8 > div:last-child > div > div,
 .hero.hero8 > div:last-child > div > span {
   background: none;
@@ -332,13 +344,11 @@
   justify-content: center;
 }
 
-/* Button hover/focus styling */
 .hero.hero8 > div:last-child > div > *:hover,
 .hero.hero8 > div:last-child > div > *:focus {
   background: #1d4b4e;
 }
 
-/* Responsive adjustments */
 @media (width <= 600px) {
   .hero.hero8 {
     padding: 1.7rem 0.5rem 1.2rem;
@@ -371,5 +381,49 @@
   .hero.hero8 > div:last-child > div > span {
     min-width: 24px;
     min-height: 24px;
+  }
+}
+
+/* Remove extra flex/grid from inner divs so content stacks vertically and fills width */
+
+/* Style the paragraph to visually mimic a two-line hero using line clamping */
+
+/* Make the first line regular serif, the second line bold sans-serif if possible */
+.hero p::first-line {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: 400;
+  color: #000;
+}
+
+/* Fallback for bolding/sans-serif second line: 
+   If content ever uses <br> and <strong>/<b>/<span> for the second line, style it */
+.hero p br + strong,
+.hero p br + b,
+.hero p br + span {
+  display: block;
+  margin-top: 0.2em;
+  font-family: "Arial Black", Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  color: #000;
+  line-height: 1.2;
+}
+
+/* Remove any possible visual artifacts from previous styles */
+.hero *, .hero *::before, .hero *::after {
+  box-shadow: none;
+  background: none;
+  border-radius: 0;
+  border: none;
+}
+
+/* Responsive tweaks for small screens */
+@media (width <= 600px) {
+  .hero {
+    width: 100vw;
+    max-width: 100vw;
+    min-width: 0;
+    padding: 1.2rem 0.6rem;
   }
 }
