@@ -6,20 +6,20 @@
 
 .hero {
   position: relative;
-  padding: 58px 56px;
+  padding: 48px 40px 36px 32px;
   min-height: unset;
-  background: #fff;
-  width: 100%;
+  background: #ffc107;
+  width: fit-content;
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;
   overflow: hidden;
   margin: 0;
   box-sizing: border-box;
-  max-width: 560px;
-  min-width: 240px;
-  border-radius: 30px;
-  box-shadow: 0 16px 80px 0 rgb(0 0 0 / 16%), 0 2px 8px 0 rgb(0 0 0 / 4%);
+  max-width: 540px;
+  min-width: 340px;
+  border-radius: 0;
+  box-shadow: none;
   flex-direction: column;
   margin-top: 48px;
   z-index: 1;
@@ -98,25 +98,28 @@
 }
 
 .hero p {
-  color: var(--text-color);
-  font-size: 1.45rem;
+  color: #000;
+  font-size: 20px;
   line-height: 1.45;
   max-width: 98%;
-  margin: 0 0 1.05em;
+  margin: 0;
   overflow-wrap: break-word;
   padding: 0;
-  font-family: var(--body-font-family);
-  font-weight: 500;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
+  font-family: Georgia, Times New Roman, Times, serif;
+  font-weight: 400;
+  display: block;
+  -webkit-line-clamp: unset;
   -webkit-box-orient: vertical;
-  overflow: hidden;
+  overflow: visible;
   height: calc(1.25em * 2 + 0.25em);
   text-align: left;
   background: none;
   padding-left: 0;
   letter-spacing: 0.01em;
   word-wrap: break-word;
+  white-space: pre-line;
+  word-break: normal;
+  text-overflow: unset;
 }
 
 @media (width <= 1100px) {
@@ -450,9 +453,14 @@
   width: 100vw;
   display: flex;
   align-items: flex-start;
-  justify-content: center;
+  justify-content: flex-start;
   padding: 0;
-  position: relative;
+  position: absolute;
+  flex-direction: row;
+  margin: 0;
+  top: 0;
+  left: 0;
+  height: auto;
 }
 
 @media (width <= 1024px) {
@@ -489,7 +497,7 @@
     border-radius: 8px;
     margin-top: 8px;
     max-width: 99vw;
-    overflow-wrap: break-word; /* Fix for deprecated keyword */
+    overflow-wrap: break-word;
   }
 
   .hero > div,
@@ -500,5 +508,43 @@
   .hero p {
     font-size: 0.97rem;
     max-width: 97vw;
+  }
+}
+
+
+/* Ensure the hero block is flush left and flush top with no gap */
+
+/* The hero block itself, sized to content with generous padding */
+
+/* Remove background, shadow, padding from nested containers */
+.hero > div,
+.hero > div > div {
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+/* Paragraph styling for left alignment and more whitespace */
+
+/* Responsive: block should fill width but maintain padding and left alignment */
+@media (width <= 700px) {
+  .hero {
+    max-width: 100vw;
+    min-width: 0;
+    width: 100vw;
+    padding: 24px 10px 16px 8px;
+  }
+
+  .hero p {
+    max-width: 100%;
+  }
+
+  .hero-wrapper {
+    position: static;
   }
 }
