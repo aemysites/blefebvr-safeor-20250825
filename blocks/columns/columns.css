@@ -1,15 +1,21 @@
 /* stylelint-disable no-descending-specificity */
 .columns > div {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  grid-template-columns: 1fr 1fr 60px;
   align-items: flex-start;
   justify-content: flex-start;
-  gap: 48px;
+  gap: 32px;
   width: 100%;
-  margin: 0;
+  margin: 0 auto;
   padding-left: 64px;
   padding-right: 64px;
   box-sizing: border-box;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  max-width: 1200px;
+  background: #fff;
+  position: relative;
 }
 
 .columns img {
@@ -51,26 +57,26 @@
 
 
 .columns {
-  background: #f5b800;
-  width: 100vw;
+  background: #fff;
+  width: 100%;
   position: relative;
   left: 50%;
   right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  min-height: 600px;
-  padding: 64px 0;
+  min-height: unset;
+  padding: 0;
   box-sizing: border-box;
-  display: flex;
+  display: block;
   flex-direction: column;
   justify-content: flex-start;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 100vw;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-/* The main row of columns: fill width, no centering, side padding only */
-
-/* Each column: fill available space, left/top aligned */
-
-/* Column proportions */
 .columns > div > div:first-child {
   flex-basis: 40%;
   max-width: 40%;
@@ -81,13 +87,11 @@
   max-width: 60%;
 }
 
-/* All inner content of columns: force left/top */
 .columns > div > div > * {
   align-self: flex-start;
   text-align: left;
 }
 
-/* Responsive adjustments */
 @media (width <= 900px) {
   .columns {
     padding: 32px 0;
@@ -107,4 +111,79 @@
     flex-basis: 100%;
     max-width: 100%;
   }
+}
+
+@media (width <= 900px) {
+  .columns > div {
+    grid-template-columns: 1fr;
+    gap: 24px;
+    padding: 24px 0 24px 16px;
+  }
+}
+
+/* Left text column */
+.columns > div > div:nth-child(2) {
+  place-self: start start;
+  width: 100%;
+}
+
+.columns > div > div:nth-child(2) p {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+  text-align: left;
+  font-family: Inter, Arial, sans-serif;
+}
+
+/* Center image column: add your image as a background */
+.columns > div > div:nth-child(1) {
+  width: 220px;
+  min-width: 180px;
+  height: 120px;
+  background: url('https://images.ctfassets.net/6c1g2pobk8k7/5Ip3F6d5R4OZCk1I2nP0k6/0c1a1bfe3d1a882d27da6bb1a2e5ef8f/SEM-tablet.png') center center no-repeat;
+  background-size: contain;
+  box-shadow: 0 4px 16px rgb(0 0 0 / 13%);
+  border-radius: 8px;
+  place-self: center center;
+}
+
+@media (width <= 600px) {
+  .columns > div > div:nth-child(1) {
+    width: 100%;
+    min-width: 0;
+    height: 80px;
+  }
+}
+
+/* Right icon column (plus sign) */
+.columns > div::after {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 24px;
+  border-radius: 1px;
+  position: absolute;
+  place-self: center center;
+  background: #222;
+  box-shadow: none;
+  right: 11px;
+  top: calc(50% - 11px);
+}
+
+.columns > div::before,
+.columns > div::after {
+  pointer-events: none
+}
+
+.columns > div::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 24px;
+  height: 2px;
+  background: #222;
+  transform: translateY(-50%);
+  border-radius: 1px;
 }
