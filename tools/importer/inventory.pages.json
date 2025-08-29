@@ -1,7 +1,7 @@
 {
   "templates": [
     {
-      "name": "Multi-purpose Dashboard Template",
+      "name": "Multi-Purpose Dashboard Template",
       "cluster": 1,
       "pages": [
         {
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "name": "'Multi-purpose Content Template'",
+      "name": "'Magazine Layout'",
       "cluster": 2,
       "pages": [
         {
